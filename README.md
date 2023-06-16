@@ -3,7 +3,7 @@
 ## Background
 During my all working life I have generated several tools in excel. 
 This Repository pretends to be a summary of all of them.
-
+Please help me to improve them.
 
 ## List of tools
 ## 1) Sprint Excel sheet calculation
